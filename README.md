@@ -17,4 +17,4 @@ Running the project
 
 Project Developer
 ----------------
-Sapphire group (katherinesanjna001@gmail.com)
+Sapphire group (sumanpal1519@gmail.com)
